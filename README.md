@@ -26,6 +26,6 @@ I'm currently studying Software Enginieer at ***EAFIT University***. Constantly 
 
 
 ## 📊Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobozj&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobozj&hide_border=true&layout=compact&theme=dark" align="center" /></div>
 
 <br/>
