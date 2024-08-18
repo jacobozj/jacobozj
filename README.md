@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently studying Software Enginieer at ***EAFIT University***. Constantly working on personal projects to improve my skills and expand my knowledge. I also like to teach people about programming 👨‍💻.
+I'm currently studying Software Engineer at ***EAFIT University***. Constantly working on personal projects to improve my skills and expand my knowledge. I also like to teach people about programming 👨‍💻.
 <div align="left">
 <a href="https://github.com/jacobozj" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
