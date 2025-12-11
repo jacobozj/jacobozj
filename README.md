@@ -24,8 +24,3 @@ I'm currently studying Software Engineer at ***EAFIT University***. Constantly w
 </p>
 <br/>
 
-
-## 📊Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobozj&hide_border=true&layout=compact&theme=dark" align="center" /></div>
-
-<br/>
